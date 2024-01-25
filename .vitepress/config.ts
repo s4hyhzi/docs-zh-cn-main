@@ -140,7 +140,14 @@ export const sidebar: ThemeConfig['sidebar'] = {
       text: '14. 编程框架',
       link: '/guide/14.programming/introduction',
       items: [
-        
+        {
+          text: '14.1 ECS简介',
+          link: '/guide/14.programming/14.1ecs-intro',
+        },
+        {
+          text: '14.2 介绍：你的数据',
+          link: '/guide/14.programming/14.2intro-data',
+        }
       ]
     },
     {
