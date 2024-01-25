@@ -39,6 +39,15 @@ export const sidebar: ThemeConfig['sidebar'] = {
         }
       ]
     },
+    {
+      text: 'Bevy教程',
+      items: [
+        {
+          text: '介绍',
+          link: '/guide/tutorial/introduction'
+        }
+      ]
+    }
   ],
 }
 
