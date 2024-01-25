@@ -104,6 +104,27 @@ export const sidebar: ThemeConfig['sidebar'] = {
       items: [
         
       ]
+    },
+    {
+      text: '10. 窗口管理',
+      link: '/guide/10.window/introduction',
+      items: [
+        
+      ]
+    },
+    {
+      text: '11. 资源管理',
+      link: '/guide/11.assets/introduction',
+      items: [
+        
+      ]
+    },
+    {
+      text: '12. 音频',
+      link: '/guide/12.audio/introduction',
+      items: [
+        
+      ]
     }
   ],
 }
