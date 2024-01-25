@@ -125,6 +125,41 @@ export const sidebar: ThemeConfig['sidebar'] = {
       items: [
         
       ]
+    },
+    {
+      text: '13. UI框架',
+      link: '/guide/13.ui/introduction',
+      items: [
+        
+      ]
+    },
+    {
+      text: '14. 编程框架',
+      link: '/guide/14.programming/introduction',
+      items: [
+        
+      ]
+    },
+    {
+      text: '15. 渲染（GPU）框架',
+      link: '/guide/15.gpu/introduction',
+      items: [
+        
+      ]
+    },
+    {
+      text: '16. 编程模式',
+      link: '/guide/16.patterns/introduction',
+      items: [
+        
+      ]
+    },
+    {
+      text: '17. 跨平台运行',
+      link: '/guide/17.platforms/introduction',
+      items: [
+        
+      ]
     }
   ],
 }
