@@ -57,7 +57,7 @@ export const sidebar: ThemeConfig['sidebar'] = {
       ]
     },
     {
-      text: '3. Bevy设置贴士',
+      text: '3. Bevy设置技巧',
       link: '/guide/3.setup/introduction',
       items: [
         
