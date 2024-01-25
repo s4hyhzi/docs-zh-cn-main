@@ -60,7 +60,10 @@ export const sidebar: ThemeConfig['sidebar'] = {
       text: '3. Bevy设置技巧',
       link: '/guide/3.setup/introduction',
       items: [
-        
+        {
+          text: '3.1 开始',
+          link: '/guide/3.setup/3.1getting-started'
+        }
       ]
     },
     {

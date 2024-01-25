@@ -70,8 +70,8 @@ Bevy的开发速度非常快，大约每三个月就会有一个新的主要版�
 
 “官方Bevy项目”定义为：
 
-- 托管在[https://github.com/bevyengine/bevy](https://github.com/bevyengine/bevy%E7%9A%84Git%E4%BB%93%E5%BA%93%E5%86%85%E5%AE%B9)
-- 托管在[https://github.com/bevyengine/bevy-website](https://github.com/bevyengine/bevy-website%E7%9A%84Git%E4%BB%93%E5%BA%93%E5%86%85%E5%AE%B9)
+- 托管在[https://github.com/bevyengine/bevy](https://github.com/bevyengine/bevy)
+- 托管在[https://github.com/bevyengine/bevy-website](https://github.com/bevyengine/bevy-website)
 - 在[bevyengine.org](https://bevyengine.org)网站上公开可见的任何内容
 
 MIT-0许可证适用于您的贡献被上游接受后。
