@@ -19,7 +19,7 @@ import { VTCodeGroup, VTCodeGroupTab } from '@vue/theme'
 
 本书有以下的一般章节：
 
-- Bevy设置提示：项目设置建议，工具和插件的推荐
+- Bevy设置贴士：项目设置建议，工具和插件的推荐
 - 常见陷阱：社区遇到的常见问题的解决方案
 - 在不同平台上的Bevy：关于与特定平台/操作系统工作的信息
 

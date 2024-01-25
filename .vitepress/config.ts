@@ -44,7 +44,7 @@ export const sidebar: ThemeConfig['sidebar'] = {
       items: [
         {
           text: '介绍',
-          link: '/guide/tutorial/introduction'
+          link: '/guide/1.tutorial/introduction'
         }
       ]
     }
