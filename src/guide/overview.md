@@ -9,7 +9,7 @@ import { VTCodeGroup, VTCodeGroupTab } from '@vue/theme'
 
 [Bevy Builtins页面](/guide/builtins)是一个简洁的备忘单，提供了Bevy提供的类型和特性的有用信息。
 
-[Bevy教程章节](/1.tutorial)是你可以从头到尾跟随的教程/指南。
+[Bevy教程章节](/guide/1.tutorial/introduction)是你可以从头到尾跟随的教程/指南。
 
 [Bevy Cookbook](https://qxv28nagyqf.feishu.cn/wiki/DnBKwMq05ip5Isk4oAncIYvKnyd)是为了解决特定问题而提供的更自包含/范围更窄的示例。
 
