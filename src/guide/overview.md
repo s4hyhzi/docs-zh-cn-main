@@ -19,12 +19,24 @@ import { VTCodeGroup, VTCodeGroupTab } from '@vue/theme'
 
 本书有以下的一般章节：
 
-- Bevy设置贴士：项目设置建议，工具和插件的推荐
-- 常见陷阱：社区遇到的常见问题的解决方案
-- 在不同平台上的Bevy：关于与特定平台/操作系统工作的信息
+- [Bevy设置技巧](/guide/3.setup/introduction)：项目设置建议，工具和插件的推荐
+- [常见问题](/guide/4.pitfalls/introduction)：社区遇到的常见问题的解决方案
+- [跨平台运行](/guide/17.platforms/introduction)：关于与特定平台/操作系统工作的信息
 
 要学习如何在Bevy中编程，请看这些章节：
 
-- Bevy核心编程框架：ECS+App框架，一切的基础
-- 编程模式：有见地的建议，模式，习语
-- Bevy渲染（GPU）框架：与GPU和Bevy的渲染工作
+- [Bevy核心编程框架](/guide/14.programming/introduction)：ECS+App框架，一切的基础
+- [编程模式](/guide/16.patterns/introduction)：有见地的建议，模式，习语
+- [Bevy渲染（GPU）框架](/guide/15.gpu/introduction)：与GPU和Bevy的渲染工作
+
+以下章节涵盖了各种Bevy特性领域：
+
+-   [游戏引擎基础](/guide/5.fundamentals/introduction)
+-   [通用图形特性](/guide/6.graphics/introduction)
+-   [使用2D](/guide/7.2d/introduction)
+-   [使用3D](/guide/8.3d/introduction)
+-   [输入处理](/guide/9.input/introduction)
+-   [窗口管理](/guide/10.window/introduction)
+-   [资源管理](/guide/11.assets/introduction)
+-   [音频](/guide/12.audio/introduction)
+-   [Bevy UI框架](/guide/13.ui/introduction)
