@@ -11,7 +11,7 @@ import { VTCodeGroup, VTCodeGroupTab } from '@vue/theme'
 
 [Bevy教程章节](/guide/1.tutorial/introduction)是你可以从头到尾跟随的教程/指南。
 
-[Bevy Cookbook](https://qxv28nagyqf.feishu.cn/wiki/DnBKwMq05ip5Isk4oAncIYvKnyd)是为了解决特定问题而提供的更自包含/范围更窄的示例。
+[Bevy Cookbook](/guide/introduction)是为了解决特定问题而提供的更自包含/范围更窄的示例。
 
 本书的其余部分被设计为一个参考资料，涵盖了与Bevy工作的不同方面。随意跳转本书，学习任何感兴趣的话题。在本书的每一页，如果提到了其他话题，都会链接到相关页面或官方API文档。
 
