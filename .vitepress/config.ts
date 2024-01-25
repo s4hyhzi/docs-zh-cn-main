@@ -45,13 +45,62 @@ export const sidebar: ThemeConfig['sidebar'] = {
       items: [
         {
           text: '1.1 引导式教程',
-          link: '/guide/1.tutorial/1.1guide'
+          link: '/guide/1.tutorial/1.1guide',
         }
+      ]
+    },
+    {
+      text: '2. Bevy菜单',
+      link: '/guide/2.cookbook/introduction',
+      items: [
+        
       ]
     },
     {
       text: '3. Bevy设置贴士',
       link: '/guide/3.setup/introduction',
+      items: [
+        
+      ]
+    },
+    {
+      text: '4. 常见问题',
+      link: '/guide/4.pitfalls/introduction',
+      items: [
+        
+      ]
+    },
+    {
+      text: '5. 游戏引擎基础',
+      link: '/guide/5.fundamentals/introduction',
+      items: [
+        
+      ]
+    },
+    {
+      text: '6. 通用图形特性',
+      link: '/guide/6.graphics/introduction',
+      items: [
+        
+      ]
+    },
+    {
+      text: '7. 2D开发',
+      link: '/guide/7.2d/introduction',
+      items: [
+        
+      ]
+    },
+    {
+      text: '8. 3D开发',
+      link: '/guide/8.3d/introduction',
+      items: [
+        
+      ]
+    },
+    {
+      text: '9. 输入处理',
+      link: '/guide/9.input/introduction',
       items: [
         
       ]

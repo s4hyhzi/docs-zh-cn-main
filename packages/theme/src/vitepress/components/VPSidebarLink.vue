@@ -21,13 +21,15 @@ watchPostEffect(updateActive)
 </script>
 
 <template>
-  <a
-    :class="{ link: true, active }"
-    :href="item.link"
-    @click="closeSideBar"
-  >
+  <a :class="{ link: true, active }" :href="item.link" @click="closeSideBar">
     <p class="link-text">{{ item.text }}</p>
   </a>
+
+  <template v-for="data in item.items" :key="data.link">
+    <div style="margin-left: 16px;">
+      <VPSidebarLink :item="data" />
+    </div>
+  </template>
 </template>
 
 <style scoped>

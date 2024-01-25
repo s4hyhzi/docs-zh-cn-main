@@ -1,3 +1,6 @@
+---
+footer: false
+---
 <table style="display:flex;justify-content:center">
   <tr>
     <td>Bevy版本：</td>

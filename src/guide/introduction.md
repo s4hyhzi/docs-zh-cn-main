@@ -1,5 +1,5 @@
 ---
-footer: true
+footer: false
 ---
 # 简介 {#unofficial-bevy-cheat-book}
 
