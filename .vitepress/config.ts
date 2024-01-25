@@ -41,10 +41,11 @@ export const sidebar: ThemeConfig['sidebar'] = {
     },
     {
       text: 'Bevy教程',
+      link: '/guide/1.tutorial/introduction',
       items: [
         {
-          text: '介绍',
-          link: '/guide/1.tutorial/introduction'
+          text: '引导式教程',
+          link: '/guide/1.tutorial/1.1guide'
         }
       ]
     }

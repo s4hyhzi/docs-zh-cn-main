@@ -168,6 +168,7 @@ export interface MultiSidebarConfig {
 
 export interface SidebarGroup {
   text: string
+  link?: string
   items: MenuItemWithLink[]
 }
 

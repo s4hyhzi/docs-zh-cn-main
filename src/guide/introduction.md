@@ -18,7 +18,7 @@ footer: true
 
 欢迎！愿这本书对您有所帮助！
 
-（别忘了给这本书的[点星]([https://](https://github.com/s4hyhzi/docs-zh-cn-main.git))，并考虑[捐赠](https://github.com/s4hyhzi)😉）
+（别忘了给这本书的[点星](https://github.com/s4hyhzi/docs-zh-cn-main)，并考虑[捐赠](https://github.com/s4hyhzi)😉）
 
 ## 如何使用这本书 {#how-to-use-this-book}
 
@@ -30,7 +30,7 @@ footer: true
 
 每页上的文本将链接到其他页面，在那里你可以学习到文中提到的其他内容。这有助于你在书中跳转。
 
-如果你是Bevy的新手，或者想要一个更有指导性的体验，尝试[*引导式旅行教程*]() 。它将帮助你以一种对学习有意义的顺序浏览书籍，从初学者到高级主题。
+如果你是Bevy的新手，或者想要一个更有指导性的体验，尝试[*引导式旅行教程*](/guide/1.tutorial/introduction) 。它将帮助你以一种对学习有意义的顺序浏览书籍，从初学者到高级主题。
 
 [Bevy公告页](https://bevy-cheatbook.github.io/builtins.html)是一个简洁的信息表，提供了Bevy提供的类型和特性的有用信息。
 
