@@ -32,7 +32,7 @@ footer: false
 
 如果你是Bevy的新手，或者想要一个更有指导性的体验，尝试[*引导式旅行教程*](/guide/1.tutorial/introduction) 。它将帮助你以一种对学习有意义的顺序浏览书籍，从初学者到高级主题。
 
-[Bevy公告页](https://bevy-cheatbook.github.io/builtins.html)是一个简洁的信息表，提供了Bevy提供的类型和特性的有用信息。
+[Bevy内置命令](/guide/builtins)是一个简洁的信息表，提供了Bevy提供的类型和特性的有用信息。
 
 ## 推荐的额外资源 {#recommended-additional-resources}
 
