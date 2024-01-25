@@ -40,13 +40,20 @@ export const sidebar: ThemeConfig['sidebar'] = {
       ]
     },
     {
-      text: 'Bevy教程',
+      text: '1. Bevy教程',
       link: '/guide/1.tutorial/introduction',
       items: [
         {
-          text: '引导式教程',
+          text: '1.1 引导式教程',
           link: '/guide/1.tutorial/1.1guide'
         }
+      ]
+    },
+    {
+      text: '3. Bevy设置贴士',
+      link: '/guide/3.setup/introduction',
+      items: [
+        
       ]
     }
   ],
