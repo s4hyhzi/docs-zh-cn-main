@@ -37,6 +37,6 @@ import { VTCodeGroup, VTCodeGroupTab } from '@vue/theme'
 -   [使用3D](/guide/8.3d/introduction)
 -   [输入处理](/guide/9.input/introduction)
 -   [窗口管理](/guide/10.window/introduction)
--   [资源管理](/guide/11.assets/introduction)
+-   [资产管理](/guide/11.assets/introduction)
 -   [音频](/guide/12.audio/introduction)
 -   [Bevy UI框架](/guide/13.ui/introduction)

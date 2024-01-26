@@ -9,7 +9,7 @@ footer: false
   </tr>
 </table>
 
-# 资源管理 {#bevy-asset-management}
+# 资产管理 {#bevy-asset-management}
 
 Assets是游戏引擎正在处理的数据：包括所有的场景、游戏特定的东西，如物品描述，以及更多！
 

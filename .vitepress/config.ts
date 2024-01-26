@@ -10,7 +10,10 @@ const nav: ThemeConfig['nav'] = [
     text: '文档',
     activeMatch: `^/(guide|style-guide|cookbook|examples)/`,
     items: [
-      { text: '章节概览', link: '/guide/overview' },
+      {
+        text: '引导式教程',
+        link: '/guide/1.tutorial/1.1guide',
+      },
     ]
   },
   {
@@ -53,7 +56,7 @@ export const sidebar: ThemeConfig['sidebar'] = {
       text: '2. Bevy菜单',
       link: '/guide/2.cookbook/introduction',
       items: [
-        
+
       ]
     },
     {
@@ -70,70 +73,70 @@ export const sidebar: ThemeConfig['sidebar'] = {
       text: '4. 常见问题',
       link: '/guide/4.pitfalls/introduction',
       items: [
-        
+
       ]
     },
     {
       text: '5. 游戏引擎基础',
       link: '/guide/5.fundamentals/introduction',
       items: [
-        
+
       ]
     },
     {
       text: '6. 通用图形特性',
       link: '/guide/6.graphics/introduction',
       items: [
-        
+
       ]
     },
     {
       text: '7. 2D开发',
       link: '/guide/7.2d/introduction',
       items: [
-        
+
       ]
     },
     {
       text: '8. 3D开发',
       link: '/guide/8.3d/introduction',
       items: [
-        
+
       ]
     },
     {
       text: '9. 输入处理',
       link: '/guide/9.input/introduction',
       items: [
-        
+
       ]
     },
     {
       text: '10. 窗口管理',
       link: '/guide/10.window/introduction',
       items: [
-        
+
       ]
     },
     {
-      text: '11. 资源管理',
+      text: '11. 资产管理',
       link: '/guide/11.assets/introduction',
       items: [
-        
+
       ]
     },
     {
       text: '12. 音频',
       link: '/guide/12.audio/introduction',
       items: [
-        
+
       ]
     },
     {
       text: '13. UI框架',
       link: '/guide/13.ui/introduction',
       items: [
-        
+
       ]
     },
     {
@@ -147,6 +150,14 @@ export const sidebar: ThemeConfig['sidebar'] = {
         {
           text: '14.2 介绍：你的数据',
           link: '/guide/14.programming/14.2intro-data',
+        },
+        {
+          text: '14.6 资源（Resources）',
+          link: '/guide/14.programming/14.6res',
+        },
+        {
+          text: '14.8 捆绑包（Bundles）',
+          link: '/guide/14.programming/14.8bundle',
         }
       ]
     },
@@ -154,21 +165,21 @@ export const sidebar: ThemeConfig['sidebar'] = {
       text: '15. 渲染（GPU）框架',
       link: '/guide/15.gpu/introduction',
       items: [
-        
+
       ]
     },
     {
       text: '16. 编程模式',
       link: '/guide/16.patterns/introduction',
       items: [
-        
+
       ]
     },
     {
       text: '17. 跨平台运行',
       link: '/guide/17.platforms/introduction',
       items: [
-        
+
       ]
     }
   ],
