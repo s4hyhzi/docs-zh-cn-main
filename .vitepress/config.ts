@@ -152,6 +152,10 @@ export const sidebar: ThemeConfig['sidebar'] = {
           link: '/guide/14.programming/14.2intro-data',
         },
         {
+          text: '14.5 系统（Systems）',
+          link: '/guide/14.programming/14.5systems',
+        },
+        {
           text: '14.6 资源（Resources）',
           link: '/guide/14.programming/14.6res',
         },
