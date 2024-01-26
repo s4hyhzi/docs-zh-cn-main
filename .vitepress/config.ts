@@ -152,6 +152,10 @@ export const sidebar: ThemeConfig['sidebar'] = {
           link: '/guide/14.programming/14.2intro-data',
         },
         {
+          text: '14.4 应用构建器',
+          link: '/guide/14.programming/14.4app-builder'
+        },
+        {
           text: '14.5 系统（Systems）',
           link: '/guide/14.programming/14.5systems',
         },
