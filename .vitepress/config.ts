@@ -152,7 +152,7 @@ export const sidebar: ThemeConfig['sidebar'] = {
           link: '/guide/14.programming/14.2intro-data',
         },
         {
-          text: '14.4 应用构建器',
+          text: '14.4 应用构建器（App）',
           link: '/guide/14.programming/14.4app-builder'
         },
         {
@@ -168,8 +168,12 @@ export const sidebar: ThemeConfig['sidebar'] = {
           link: '/guide/14.programming/14.8bundle',
         },
         {
-          text: '14.9 查询',
+          text: '14.9 查询（Query）',
           link: '/guide/14.programming/14.9queries',
+        },
+        {
+          text: '14.10 命令（Commands）',
+          link: '/guide/14.programming/14.10commands',
         }
       ]
     },
