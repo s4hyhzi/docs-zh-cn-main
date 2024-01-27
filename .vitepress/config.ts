@@ -80,7 +80,18 @@ export const sidebar: ThemeConfig['sidebar'] = {
       text: '5. 游戏引擎基础',
       link: '/guide/5.fundamentals/introduction',
       items: [
-
+        {
+          text: '5.1 坐标系统',
+          link: '/guide/5.fundamentals/5.1coords',
+        },
+        {
+          text: '5.2 变换（Transforms）',
+          link: '/guide/5.fundamentals/5.2transforms',
+        },
+        {
+          text: '5.4 时间和定时器',
+          link: '/guide/5.fundamentals/5.4time',
+        }
       ]
     },
     {
