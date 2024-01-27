@@ -98,7 +98,10 @@ export const sidebar: ThemeConfig['sidebar'] = {
       text: '6. 通用图形特性',
       link: '/guide/6.graphics/introduction',
       items: [
-
+        {
+          text: '6.1 相机',
+          link: '/guide/6.graphics/6.1camera'
+        }
       ]
     },
     {
