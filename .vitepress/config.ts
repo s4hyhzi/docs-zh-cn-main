@@ -136,7 +136,10 @@ export const sidebar: ThemeConfig['sidebar'] = {
       text: '11. 资产管理',
       link: '/guide/11.assets/introduction',
       items: [
-
+        {
+          text: "11.2 从文件加载资产",
+          link: '/guide/11.assets/11.2assetserver'
+        }
       ]
     },
     {
