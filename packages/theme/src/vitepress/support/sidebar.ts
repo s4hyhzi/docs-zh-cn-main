@@ -4,7 +4,7 @@ import { ensureStartingSlash } from './utils'
 /**
  * Get the `SidebarConfig` from sidebar option. This method will ensure to get
  * correct sidebar config from `MultiSideBarConfig` with various path
- * combinations such as matching `guide/` and `/guide/`. If no matching config
+ * combinations such as matching `guide/` and `/book/`. If no matching config
  * was found, it will return empty array.
  */
 export function getSidebar(

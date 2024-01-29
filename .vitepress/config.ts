@@ -12,7 +12,7 @@ const nav: ThemeConfig['nav'] = [
     items: [
       {
         text: '引导式教程',
-        link: '/guide/1.tutorial/1.1guide',
+        link: '/book/1.tutorial/1.1guide',
       },
     ]
   },
@@ -27,190 +27,190 @@ const nav: ThemeConfig['nav'] = [
 ]
 
 export const sidebar: ThemeConfig['sidebar'] = {
-  '/guide/': [
+  '/book/': [
     {
       text: '开始',
       items: [
-        { text: '简介', link: '/guide/introduction' },
+        { text: '简介', link: '/book/introduction' },
         {
           text: '章节概览',
-          link: '/guide/overview'
+          link: '/book/overview'
         },
         {
           text: '内置命令列表',
-          link: '/guide/builtins'
+          link: '/book/builtins'
         }
       ]
     },
     {
       text: '1. Bevy教程',
-      link: '/guide/1.tutorial/introduction',
+      link: '/book/1.tutorial/introduction',
       items: [
         {
           text: '1.1 引导式教程',
-          link: '/guide/1.tutorial/1.1guide',
+          link: '/book/1.tutorial/1.1guide',
         }
       ]
     },
     {
       text: '2. Bevy菜单',
-      link: '/guide/2.cookbook/introduction',
+      link: '/book/2.cookbook/introduction',
       items: [
 
       ]
     },
     {
       text: '3. Bevy设置技巧',
-      link: '/guide/3.setup/introduction',
+      link: '/book/3.setup/introduction',
       items: [
         {
           text: '3.1 开始',
-          link: '/guide/3.setup/3.1getting-started'
+          link: '/book/3.setup/3.1getting-started'
         }
       ]
     },
     {
       text: '4. 常见问题',
-      link: '/guide/4.pitfalls/introduction',
+      link: '/book/4.pitfalls/introduction',
       items: [
 
       ]
     },
     {
       text: '5. 游戏引擎基础',
-      link: '/guide/5.fundamentals/introduction',
+      link: '/book/5.fundamentals/introduction',
       items: [
         {
           text: '5.1 坐标系统',
-          link: '/guide/5.fundamentals/5.1coords',
+          link: '/book/5.fundamentals/5.1coords',
         },
         {
           text: '5.2 变换（Transforms）',
-          link: '/guide/5.fundamentals/5.2transforms',
+          link: '/book/5.fundamentals/5.2transforms',
         },
         {
           text: '5.4 时间和定时器',
-          link: '/guide/5.fundamentals/5.4time',
+          link: '/book/5.fundamentals/5.4time',
         }
       ]
     },
     {
       text: '6. 通用图形特性',
-      link: '/guide/6.graphics/introduction',
+      link: '/book/6.graphics/introduction',
       items: [
         {
           text: '6.1 相机',
-          link: '/guide/6.graphics/6.1camera'
+          link: '/book/6.graphics/6.1camera'
         }
       ]
     },
     {
       text: '7. 2D开发',
-      link: '/guide/7.2d/introduction',
+      link: '/book/7.2d/introduction',
       items: [
 
       ]
     },
     {
       text: '8. 3D开发',
-      link: '/guide/8.3d/introduction',
+      link: '/book/8.3d/introduction',
       items: [
 
       ]
     },
     {
       text: '9. 输入处理',
-      link: '/guide/9.input/introduction',
+      link: '/book/9.input/introduction',
       items: [
 
       ]
     },
     {
       text: '10. 窗口管理',
-      link: '/guide/10.window/introduction',
+      link: '/book/10.window/introduction',
       items: [
 
       ]
     },
     {
       text: '11. 资产管理',
-      link: '/guide/11.assets/introduction',
+      link: '/book/11.assets/introduction',
       items: [
         {
           text: "11.2 从文件加载资产",
-          link: '/guide/11.assets/11.2assetserver'
+          link: '/book/11.assets/11.2assetserver'
         }
       ]
     },
     {
       text: '12. 音频',
-      link: '/guide/12.audio/introduction',
+      link: '/book/12.audio/introduction',
       items: [
 
       ]
     },
     {
       text: '13. UI框架',
-      link: '/guide/13.ui/introduction',
+      link: '/book/13.ui/introduction',
       items: [
 
       ]
     },
     {
       text: '14. 编程框架',
-      link: '/guide/14.programming/introduction',
+      link: '/book/14.programming/introduction',
       items: [
         {
           text: '14.1 ECS简介',
-          link: '/guide/14.programming/14.1ecs-intro',
+          link: '/book/14.programming/14.1ecs-intro',
         },
         {
           text: '14.2 介绍：你的数据',
-          link: '/guide/14.programming/14.2intro-data',
+          link: '/book/14.programming/14.2intro-data',
         },
         {
           text: '14.4 应用构建器（App）',
-          link: '/guide/14.programming/14.4app-builder'
+          link: '/book/14.programming/14.4app-builder'
         },
         {
           text: '14.5 系统（Systems）',
-          link: '/guide/14.programming/14.5systems',
+          link: '/book/14.programming/14.5systems',
         },
         {
           text: '14.6 资源（Resources）',
-          link: '/guide/14.programming/14.6res',
+          link: '/book/14.programming/14.6res',
         },
         {
           text: '14.8 捆绑包（Bundles）',
-          link: '/guide/14.programming/14.8bundle',
+          link: '/book/14.programming/14.8bundle',
         },
         {
           text: '14.9 查询（Query）',
-          link: '/guide/14.programming/14.9queries',
+          link: '/book/14.programming/14.9queries',
         },
         {
           text: '14.10 命令（Commands）',
-          link: '/guide/14.programming/14.10commands',
+          link: '/book/14.programming/14.10commands',
         }
       ]
     },
     {
       text: '15. 渲染（GPU）框架',
-      link: '/guide/15.gpu/introduction',
+      link: '/book/15.gpu/introduction',
       items: [
 
       ]
     },
     {
       text: '16. 编程模式',
-      link: '/guide/16.patterns/introduction',
+      link: '/book/16.patterns/introduction',
       items: [
 
       ]
     },
     {
       text: '17. 跨平台运行',
-      link: '/guide/17.platforms/introduction',
+      link: '/book/17.platforms/introduction',
       items: [
 
       ]
