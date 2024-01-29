@@ -11,10 +11,18 @@ const nav: ThemeConfig['nav'] = [
     activeMatch: `^/(guide|style-guide|cookbook|examples)/`,
     items: [
       {
+        text: '指南',
+        link: '/book/introduction',
+      },
+      {
         text: '引导式教程',
         link: '/book/1.tutorial/1.1guide',
       },
     ]
+  },
+  {
+    text:'物理引擎',
+    link: '/rapier/introduction'
   },
   {
     text: '示例',
@@ -216,6 +224,17 @@ export const sidebar: ThemeConfig['sidebar'] = {
       ]
     }
   ],
+  '/rapier/': [
+    {
+      text: '开始',
+      items:[
+        {
+          text: '关于Rapier',
+          link: '/rapier/introduction'
+        }
+      ]
+    }
+  ]
 }
 
 const i18n: ThemeConfig['i18n'] = {
