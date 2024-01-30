@@ -145,6 +145,10 @@ export const sidebar: ThemeConfig['sidebar'] = {
       link: '/book/11.assets/introduction',
       items: [
         {
+          text: "11.1 句柄",
+          link: '/book/11.assets/11.1handles'
+        },
+        {
           text: "11.2 从文件加载资产",
           link: '/book/11.assets/11.2assetserver'
         }
